@@ -23,8 +23,13 @@ Caution - The monster can regain his health if he is not attacked ContinuouslyğŸ
 
 Can You help him to Win against the monster..?
 
+## Screenshots
 
+<img src="screenshots/s1.jpeg" height=500px/> <img src="screenshots/s2.jpeg" height=500px/><img src="screenshots/s7.jpeg" height=500px/>
 
+## Levels
+
+<img src="screenshots/s3.jpeg" height=500px/><img src="screenshots/s4.jpeg" height=500px/><img src="screenshots/s5.jpeg" height=500px/><img src="screenshots/s6.jpeg" height=500px/>
 
 
 ## Tech Stack
