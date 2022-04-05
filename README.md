@@ -1,16 +1,42 @@
-# galaxy_game
+# Galaxy Game
 
-A new Flutter project.
+## Project Description
+V wants to go on adventures of his own and destroy some Monsters. 
+Help him to achieve his goal❤️‍🔥🔥
 
-## Getting Started
+The Game contains 4 levels.
 
-This project is a starting point for a Flutter application.
+**Level 1:**
+To go on his journey he wants a SpaceShip. Help him to get one by solving the Maze In Time.🚀
 
-A few resources to get you started if this is your first Flutter project:
+**Level 2:**
+Oh no.! V is Caught by Space Patrol. They want to know if he really belongs to the Solar System.
+Answer few question to prove his authenticity.🚓👮‍♂️
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Level 3:**
+Low Fuel..! Low Fuel..! Looks like the SpaceShip just run out of gas. Double tap to get atleast 10 cans of Gas to continue the Journey.⛽⛽
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Level 4:**
+There is the Monster V wants to destroy.Help him to destroy the Monster and Win the 
+Game.
+Caution - The monster can regain his health if he is not attacked Continuously👽💀
+
+Can You help him to Win against the monster..?
+
+
+
+
+
+## Tech Stack
+
+- Flutter 
+- Dart programming language
+
+## Team Members
+
+Vinayak Ranjane: vinayakranjane2501@gmail.com 
+
+## Assets
+
+All the assets are taken from Flaticon.com
+
